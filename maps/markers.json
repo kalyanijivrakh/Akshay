@@ -9750,11 +9750,6 @@ markers=[
     "lng": 72.9364825
   },
   {
-    "name": "ME 1952 400043 Siddharth Garden,Limonibaug,Shivaji Nagar Congested Area",
-    "lat": 19.8797045,
-    "lng": 75.3151286
-  },
-  {
     "name": "ME 1953 400043 Karbala Chawl,Martang Rushi Nagar,Near Noori Masjid,Mankhurd Congested Area",
     "lat": 19.0512616,
     "lng": 72.9368399
@@ -9788,11 +9783,6 @@ markers=[
     "name": "ME 1959 400043 Lallubhai Compound,,Govandi",
     "lat": 19.0520628,
     "lng": 72.9272317
-  },
-  {
-    "name": "ME 1960 400043 Maharashtra Nagar,Matoshri Garden,Shirke Compund Road,Mankhurd",
-    "lat": 19.1106875,
-    "lng": 74.7271887
   },
   {
     "name": "ME 1961 400043 Bhimjyot Chawl,Pll Lokhande,Govandi Congested Area",
@@ -9848,11 +9838,6 @@ markers=[
     "name": "ME 1971 400071 Bksd Road,,Chembur Congested Area",
     "lat": 19.0521122,
     "lng": 72.900668
-  },
-  {
-    "name": "ME 1972 400071 Pll Marg Chimpazti Co Society,Near Shani Mandir,Ayodhya Nagar",
-    "lat": 19.3809105,
-    "lng": 74.8581505
   },
   {
     "name": "ME 1973 400071 Ayodyanagar,Vashi Naka,Ayodhya Nagar",
@@ -9948,11 +9933,6 @@ markers=[
     "name": "ME 1991 400088 Arya Gawand Estate,St Round,Deonar Congested Area",
     "lat": 19.0447048,
     "lng": 72.9102511
-  },
-  {
-    "name": "ME 1992 400088 Orchid Bldg,Ambernath Patil Udyan,Govandi East",
-    "lat": 19.1899505,
-    "lng": 73.2206564
   },
   {
     "name": "ME 1993 400088 G Sector,K2 Line,Market Rd,Cheetacamp Congested Area",
@@ -13003,11 +12983,6 @@ markers=[
     "name": "S 2603 400083 Shiv Ganesh Housing,Karve Nagar,Kanjurmarg",
     "lat": 19.1298029,
     "lng": 72.9353985
-  },
-  {
-    "name": "S 2604 400083 Panchavati Bld,Maharshi Karve Nagar,Karve Nagar,Kanjunmarg E",
-    "lat": 18.4873927,
-    "lng": 73.8151442
   },
   {
     "name": "S 2605 400083 ,Kannamwar Nagar Ii,Vikhroli East",
